@@ -28,5 +28,3 @@ Date: ${DATE}
 
 curl -s -d "chat_id=${USERID}&text=${TEXT}&disable_web_page_preview=true&parse_mode=markdown" $URL > /dev/null
 fi
-
-#https://github.com/indonesia08
