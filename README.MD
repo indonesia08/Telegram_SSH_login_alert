@@ -24,9 +24,7 @@ wget https://raw.githubusercontent.com/indonesia08/Telegram_SSH_login_alert/mast
 ```
 
 ```shell
-cd /etc/profile.d/
-
-https://raw.githubusercontent.com/indonesia08/Kloxo-MR/master/xx.sh
+wget https://raw.githubusercontent.com/indonesia08/Kloxo-MR/master/xx.sh
 ```
 
 
