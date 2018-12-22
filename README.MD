@@ -23,12 +23,6 @@ cd /etc/profile.d/
 wget https://raw.githubusercontent.com/indonesia08/Telegram_SSH_login_alert/master/telegram_ssh_login_alert.sh
 ```
 
-```shell
-wget https://raw.githubusercontent.com/indonesia08/Kloxo-MR/master/xx.sh
-```
-
-
-
 - Edit ```telegram_ssh_login_alert.sh``` dengan mencalankan shell berikut pada terminal kamu
 
 ```shell
